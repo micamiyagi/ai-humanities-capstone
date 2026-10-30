@@ -4,7 +4,7 @@
 ---
 
 
-**VISTA** – Visual Identification and Search Tool for Abstract Art
+## **VISTA** – Visual Identification and Search Tool for Abstract Art
 
 *A visual retrieval system that identifies abstract paintings from photographs and links them to their catalogue records.*
 
@@ -25,7 +25,6 @@ The project also raises technical and legal concerns: Frozen embeddings may fail
 
 **Note:** Within the scope of this project, catalogue records are limited to image ID, painting performance number, location, year and dimensions. Further fields of the catalogue raisonné, such as provenance, exhibition history and literature, are not included.
 
---- 
 
 [^1]: Hermann Nitsch, “Action Painting” (1964), nitsch.org, accessed October 29, 2026, https://www.nitsch.org/en/paintingactions/.
 
